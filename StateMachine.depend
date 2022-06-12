@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1655049146 source:d:\10_workingspace\09_codeblock_ws\01_designpattern_study\statemachine\main.cpp
+	<iostream>
+	"context_app.h"
+	"state_concrete_impl_1.h"
+	"state_concrete_impl_2.h"
+
+1655019969 source:d:\10_workingspace\09_codeblock_ws\01_designpattern_study\statemachine\include\context_app.h
+	"../state_interface.h"
+
+1655049720 d:\10_workingspace\09_codeblock_ws\01_designpattern_study\statemachine\state_interface.h
+	"context_app.h"
+	<iostream>
+
+1655049683 d:\10_workingspace\09_codeblock_ws\01_designpattern_study\statemachine\include\context_app.h
+	"../state_interface.h"
+
+1655033585 source:d:\10_workingspace\09_codeblock_ws\01_designpattern_study\statemachine\include\state_concrete_impl_1.h
+	"../state_interface.h"
+	<iostream>
+	<string>
+
+1655020918 source:d:\10_workingspace\09_codeblock_ws\01_designpattern_study\statemachine\include\state_concrete_impl_2.h
+	"../state_interface.h"
+	<iostream>
+	<string>
+
+1655025229 source:d:\10_workingspace\09_codeblock_ws\01_designpattern_study\statemachine\state_interface.h
+	"context_app.h"
+	<iostream>
+
+1655049038 source:d:\10_workingspace\09_codeblock_ws\01_designpattern_study\statemachine\src\state_concrete_impl_1.cpp
+	"state_concrete_impl_1.h"
+	"state_concrete_impl_2.h"
+	<typeinfo>
+
+1655048836 d:\10_workingspace\09_codeblock_ws\01_designpattern_study\statemachine\include\state_concrete_impl_1.h
+	"../state_interface.h"
+	<iostream>
+	<string>
+
+1655048887 d:\10_workingspace\09_codeblock_ws\01_designpattern_study\statemachine\include\state_concrete_impl_2.h
+	"../state_interface.h"
+	<iostream>
+	<string>
+
+1655049499 source:d:\10_workingspace\09_codeblock_ws\01_designpattern_study\statemachine\src\state_concrete_impl_2.cpp
+	"state_concrete_impl_2.h"
+	"state_concrete_impl_1.h"
+	<typeinfo>
+
+1655049543 source:d:\10_workingspace\09_codeblock_ws\01_designpattern_study\statemachine\src\context_app.cpp
+	"context_app.h"
+	<iostream>
+	<string>
+	<typeinfo>
+
+1655027406 source:d:\10_workingspace\09_codeblock_ws\01_designpattern_study\statemachine\state_interface.cpp
+	"state_interface.h"
+	<iostream>
+

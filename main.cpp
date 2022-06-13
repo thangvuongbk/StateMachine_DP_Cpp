@@ -13,6 +13,6 @@ int main() {
     std::cout << "\n\n";
     context_app_1->HandleState2();
 
-    //delete context_app_1;
+    delete context_app_1;
     return 0;
 }
